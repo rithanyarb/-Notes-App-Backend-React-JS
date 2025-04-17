@@ -105,6 +105,7 @@ In SQLite shell:
 
 ```sql
 .mode box
+or .mode table or .mode list etc
 SELECT * FROM users;
 SELECT * FROM notes;
 ```
